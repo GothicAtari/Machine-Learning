@@ -9,7 +9,7 @@
 
 ## The data was taken from publicly available statistics on professional basketball players. Selected data was imported into Excel, normalized, and then exported into an easily readable format for our Python files.
 
-#### Instructions
+### Instructions
 To run the naive bayes and svm classifier codes and test for accuracy, 
 unzip the FinalNBSVM.zip file and run as a project ideally in pycharm.
 
