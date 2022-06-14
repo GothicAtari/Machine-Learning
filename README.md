@@ -1,13 +1,13 @@
 # Machine Learning
  Machine learning project created in Python
  
-# Description
+## Description
 
-## Project created for Machine Learning where four different classifier algorithms were implemented to accurately determine the salary bracket of a professional basketball player.
+### - Project created for Machine Learning where four different classifier algorithms were implemented to accurately determine the salary bracket of a professional basketball player.
 
-# Data
+## Data
 
-## The data was taken from publicly available statistics on professional basketball players. Selected data was imported into Excel, normalized, and then exported into an easily readable format for our Python files.
+### The data was taken from publicly available statistics on professional basketball players. Selected data was imported into Excel, normalized, and then exported into an easily readable format for our Python files.
 
 ### Instructions
 To run the naive bayes and svm classifier codes and test for accuracy, 
